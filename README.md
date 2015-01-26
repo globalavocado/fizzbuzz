@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/globalavocado/fizzbuzz/badges/gpa.svg)](https://codeclimate.com/github/globalavocado/fizzbuzz)
+
 <h1>fizzbuzz</h1>
 
 <h2>Makers Academy week 3 - ruby</h2>
